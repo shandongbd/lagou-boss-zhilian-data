@@ -2,7 +2,7 @@
 拉钩+智联+boss直聘的爬虫代码
 
 
-## lagou.py [点击前往](https://github.com/shandongbd/lagou-boss-zhilian-data/blob/master/lagou.py)
+## 拉勾网.py [点击前往](https://github.com/shandongbd/lagou-boss-zhilian-data/blob/master/拉勾网.py)
 部署在云服务器上，每天8点定时爬取拉勾网，每天需要修改收集日期
 
 
